@@ -35,6 +35,6 @@ Add  **[Stripe setDefaultPublishableKey: @"pk_test_key_XXXXXX];**
 
 paste your key from Stripe Dashboard 
 
-
+https://www.mindbowser.com/stripe-payment-in-react-native-app-using-firebase-cloud-function/
 
 
