@@ -38,3 +38,6 @@ paste your key from Stripe Dashboard
 https://www.mindbowser.com/stripe-payment-in-react-native-app-using-firebase-cloud-function/
 
 
+pk_test_51I9mNxJLyDwdU00vtTCSRCZwklRXCe9ZmUIkfASbeUkdr6J583lo9fS0z5wmMG84drNTMUDrlRBsd1K30CbzFH2y00jH98SrLp
+
+
