@@ -64,7 +64,11 @@ using <br>
 <br>
 **firebase init**
 <br>
-choose the option of cloud function with arrow down and for selecting use spacebar 
+choose the option of cloud function with arrow down and for selecting use spacebar
+
+<br>
+<br>
+![Screenshot 2021-01-20 at 10 30 04 AM](https://user-images.githubusercontent.com/55517509/105137164-e12b8300-5b18-11eb-89ca-2f70c2e4b340.png)
 
 Now we have sucessfully installed the functions and now we will install stripe in the function modules 
 
