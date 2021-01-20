@@ -40,4 +40,32 @@ https://www.mindbowser.com/stripe-payment-in-react-native-app-using-firebase-clo
 
 pk_test_51I9mNxJLyDwdU00vtTCSRCZwklRXCe9ZmUIkfASbeUkdr6J583lo9fS0z5wmMG84drNTMUDrlRBsd1K30CbzFH2y00jH98SrLp
 
+sk_test_51I9mNxJLyDwdU00v8kXs6ZJgZuI5ai3Ouo9znxWRNsYtu1N4HdbqAU4ELUpDlNo0ZsV0kYuk8OU2CFoqJMrhDh7700EZh3mCLB
+
+
+
+
+For Firebase Function 
+
+
+We have to install Firebase tool 
+
+
+**npm install -g firebase-tools**
+
+if we are not logged in we have to login the firebase Cli
+using <br>
+
+**firebase login**
+<br>
+**firebase init**
+<br>
+choose the option of cloud function with arrow down and for selecting use spacebar 
+
+Now we have sucessfully installed the functions and now we will install stripe in the function modules 
+
+for that **cd functions**
+and install stripe **npm install stripe**
+
+
 
