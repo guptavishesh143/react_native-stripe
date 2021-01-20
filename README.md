@@ -33,6 +33,10 @@ below line [self.window makeKeyAndVisible];  //**Line Around 46**
 
 Add  **[Stripe setDefaultPublishableKey: @"pk_test_key_XXXXXX];** 
 
+
+
+
+
 paste your key from Stripe Dashboard 
 
 https://www.mindbowser.com/stripe-payment-in-react-native-app-using-firebase-cloud-function/
@@ -40,7 +44,7 @@ https://www.mindbowser.com/stripe-payment-in-react-native-app-using-firebase-clo
 
 pk_test_51I9mNxJLyDwdU00vtTCSRCZwklRXCe9ZmUIkfASbeUkdr6J583lo9fS0z5wmMG84drNTMUDrlRBsd1K30CbzFH2y00jH98SrLp
 
-sk_test_51I9mNxJLyDwdU00v8kXs6ZJgZuI5ai3Ouo9znxWRNsYtu1N4HdbqAU4ELUpDlNo0ZsV0kYuk8OU2CFoqJMrhDh7700EZh3mCLB
+
 
 
 
@@ -66,6 +70,29 @@ Now we have sucessfully installed the functions and now we will install stripe i
 
 for that **cd functions**
 and install stripe **npm install stripe**
+
+firebase Function
+
+const functions = require('firebase-functions');
+
+const stripe = require("stripe")("sk_test_51I9mNxJLyDwdU00v8kXs6ZJgZuI5ai3Ouo9znxWRNsYtu1N4HdbqAU4ELUpDlNo0ZsV0kYuk8OU2CFoqJMrhDh7700EZh3mCLB"); // eslint-disable
+
+exports.completePaymentWithStripe = functions.https.onRequest((request, response) => {
+    
+    stripe.charges.create({
+        amount: request.body.amount,
+        currency: request.body.currency,
+        source: request.body.token,
+    }).then((charge) => {
+            response.send(charge);
+        })
+        .catch(err =>{
+            console.log(err);
+        });
+
+       
+});
+
 
 
 
