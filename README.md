@@ -13,7 +13,7 @@ Dependency Link TIPSI-STRIPE  : https://tipsi.github.io/tipsi-stripe/docs/index.
 
 Goto ProjectFolder/ios/Podfile and initialize  
 
-**pod 'stripe','~> 14.0.0'<br/>
+**pod 'Stripe','~> 14.0.0'<br/>
 
   pod 'Firebase/Core'                       <br/>
   pod 'Firebase/Auth'                       <br/> 
