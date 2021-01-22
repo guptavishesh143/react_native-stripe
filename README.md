@@ -1,6 +1,6 @@
 # React_native_stripe_config
 <br>
-#####Create Project Using
+Create Project Using
 <br>
 **npx react-native init  <Project_name>**
 <br>
