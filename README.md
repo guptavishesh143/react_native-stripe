@@ -6,11 +6,9 @@
 <br>
 
 **Install Tipsi Stripe dependencies**
-
 <br>
 
 ```npm install tipsi-stripe```
-
 <br>
 
 **IOS CONFIGURATION**
