@@ -1,12 +1,9 @@
 # React_native_stripe_config
-<br>
-Create Project Using
-<br>
+
+**Create Project Using**
+
 ```npx react-native init Project_name```
-<br>
-Dependency Link TIPSI-STRIPE  :
-```https://tipsi.github.io/tipsi-stripe/docs/index.html```
-<br>
+
 **npm install tipsi-stripe**
 <br>
 
@@ -14,7 +11,7 @@ Dependency Link TIPSI-STRIPE  :
 
 Goto ProjectFolder/ios/Podfile and initialize  
 ```
-**pod 'Stripe','~> 19.4.0'
+pod 'Stripe','~> 19.4.0'
 
   pod 'Firebase/Core'                   
   pod 'Firebase/Auth'                       
