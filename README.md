@@ -151,23 +151,24 @@ Output of the simulator will be
  <br>
    
 **Steps you need to follow for 3D SCA Payment**
-<br>
+```
 1.Create Token Method (Client-Side)
-<br>
-1.Create Payment Method (Client-Side)
-<br>
-1.Create Payment Intent (Server Side)
-<br>
-1.Confirm Payment Intent (Client-Side)
-<br>
 
-For Firebase Function 
+2.Create Payment Method (Client-Side)
 
+3.Create Payment Intent (Server Side)
 
+4.Confirm Payment Intent (Client-Side)
+
+```
+
+**For Firebase Function**
+<br>
 We have to install Firebase tool 
+```
+npm install -g firebase-tools
 
-
-**npm install -g firebase-tools**
+```
 
 if we are not logged in we have to login the firebase Cli
 using <br>
