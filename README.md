@@ -4,7 +4,11 @@
 
 ```npx react-native init Project_name```
 
-**npm install tipsi-stripe**
+<br>
+**Install Tipsi Stripe dependencies**
+
+```npm install tipsi-stripe```
+
 <br>
 
 **IOS CONFIGURATION**
