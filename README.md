@@ -2,7 +2,9 @@
 <br>
 Create Project Using **npx react-native init  <Project_name>**
 <br>
-Dependency Link TIPSI-STRIPE  : https://tipsi.github.io/tipsi-stripe/docs/index.html    <br> ** npm install tipsi-stripe**
+Dependency Link TIPSI-STRIPE  : https://tipsi.github.io/tipsi-stripe/docs/index.html 
+<br>
+**npm install tipsi-stripe**
 <br>
 
 **IOS CONFIGURATION**
