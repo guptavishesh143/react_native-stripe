@@ -33,9 +33,8 @@ Go to **stripe.com** >> **login/create-your-account** >> **dashboard**
 <img width="100%" height="500" src="https://user-images.githubusercontent.com/55517509/105467927-56838900-5cbc-11eb-97c8-0007f80b522f.png">
 <br>
 <img width="100%" height="500" src="https://user-images.githubusercontent.com/55517509/105468149-a7937d00-5cbc-11eb-8ec4-ba6a5af33341.png">
-<br>
-**Add this to your App.js file**
 
+**Add this to App.js**
 ```
 import React from 'react';
 import { SafeAreaView,StyleSheet,ScrollView,View, Button, Text, StatusBar} from 'react-native';
@@ -113,9 +112,8 @@ export default App;
 <br>
 Output of the simulator will be 
 <br>
-<p align="center>
 <img width="100" height="600" src="https://user-images.githubusercontent.com/55517509/105469008-a57dee00-5cbd-11eb-88fb-6c079d9734b0.png">
-<br>
+
 
 **Now create Butoons in the App.js**
 <br>
