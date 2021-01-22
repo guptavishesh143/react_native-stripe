@@ -3,10 +3,10 @@
 **Create Project Using**
 
 ```npx react-native init Project_name```
-
 <br>
-**Install Tipsi Stripe dependencies**
 
+**Install Tipsi Stripe dependencies**
+<br>
 ```npm install tipsi-stripe```
 
 <br>
