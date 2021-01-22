@@ -30,7 +30,7 @@ Goto ProjectFolder/ios/Podfile and initialize
 Go to **stripe.com** >> **login/create-your-account** >> **dashboard**
 <br>
 
-<img width="200" height="300" src="https://user-images.githubusercontent.com/55517509/105467927-56838900-5cbc-11eb-97c8-0007f80b522f.png">
+<img width="600" height="500" src="https://user-images.githubusercontent.com/55517509/105467927-56838900-5cbc-11eb-97c8-0007f80b522f.png">
 
 
 <br>
