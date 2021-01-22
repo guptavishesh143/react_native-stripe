@@ -6,7 +6,9 @@
 <br>
 
 **Install Tipsi Stripe dependencies**
+
 <br>
+
 ```npm install tipsi-stripe```
 
 <br>
@@ -28,9 +30,9 @@ pod 'Stripe','~> 19.4.0'
 
 ```
 **Go-to cd ios  && pod install**
-
-#Paste your key from Stripe Dashboard: 
-
+<br>
+**Paste your key from Stripe Dashboard: **
+<br>
 Go to **stripe.com** >> **login/create-your-account** >> **dashboard**
 <br>
 
