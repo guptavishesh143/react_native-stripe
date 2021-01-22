@@ -138,7 +138,17 @@ Output of the simulator will be
 <br>
 <img width="100" height="300" src="https://user-images.githubusercontent.com/55517509/105472004-66ea3280-5cc1-11eb-9c2c-fb05125621ba.png">
  <br>
-    
+   
+**Steps you need to follow for 3D SCA Payment**
+<br>
+1.Create Token Method (Client-Side)
+<br>
+1.Create Payment Method (Client-Side)
+<br>
+1.Create Payment Intent (Server Side)
+<br>
+1.Confirm Payment Intent (Client-Side)
+<br>
 
 For Firebase Function 
 
