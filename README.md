@@ -27,8 +27,13 @@ pod 'Stripe','~> 19.4.0'
   pod 'Firebase/Storage'                    
 
 ```
-**Go-to cd ios  && pod install**
+**Go-to**
+```
+cd ios  && pod install
+
+```
 <br>
+
 **Paste your key from Stripe Dashboard:**
 <br>
 Go to **stripe.com** >> **login/create-your-account** >> **dashboard**
