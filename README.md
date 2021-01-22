@@ -60,7 +60,7 @@ return (
     <>
       <StatusBar barStyle="dark-content" />
       <SafeAreaView>
-        <View style={{alignItems: 'center'}}>
+        <View style={{alignItems: 'center',paddingHorizontal:"30%",paddingVertical:"80%"}}>
           <Text>hello</Text>
      </>
   );
@@ -136,6 +136,11 @@ Output of the simulator will be
    
    ```
    <br>
+**Output will be**   
+<br>
+<img width="100" height="300" src="https://user-images.githubusercontent.com/55517509/105471667-00651480-5cc1-11eb-8125-8e7eb611c276.png">
+ <br>
+    
 
 For Firebase Function 
 
