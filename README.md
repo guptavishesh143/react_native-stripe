@@ -1,6 +1,8 @@
 # React_native_stripe_config
 <br>
-Create Project Using **npx react-native init  <Project_name>**
+#####Create Project Using
+<br>
+**npx react-native init  <Project_name>**
 <br>
 Dependency Link TIPSI-STRIPE  : https://tipsi.github.io/tipsi-stripe/docs/index.html 
 <br>
