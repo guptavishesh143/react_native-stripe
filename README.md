@@ -11,16 +11,16 @@ Dependency Link TIPSI-STRIPE  : https://tipsi.github.io/tipsi-stripe/docs/index.
 
 Goto ProjectFolder/ios/Podfile and initialize  
 ```
-**pod 'Stripe','~> 14.0.0'<br/>
+**pod 'Stripe','~> 14.0.0'
 
-  pod 'Firebase/Core'                       <br/>
-  pod 'Firebase/Auth'                       <br/> 
-  pod 'Firebase/Crashlytics'                <br/> 
-  pod 'Firebase/Database'                   <br/> 
-  pod 'Firebase/Firestore'                  <br/>
-  pod 'Firebase/Messaging'                  <br/>
-  pod 'Firebase/Performance'                <br/> 
-  pod 'Firebase/Storage'                    <br/>
+  pod 'Firebase/Core'                   
+  pod 'Firebase/Auth'                       
+  pod 'Firebase/Crashlytics'               
+  pod 'Firebase/Database'                  
+  pod 'Firebase/Firestore'                 
+  pod 'Firebase/Messaging'                 
+  pod 'Firebase/Performance'              
+  pod 'Firebase/Storage'                    
 
 ```
 **Go-to cd ios  && pod install**
@@ -34,10 +34,7 @@ Go to **stripe.com** >> **login/create-your-account** >> **dashboard**
 <br>
 <img width="100%" height="500" src="https://user-images.githubusercontent.com/55517509/105468149-a7937d00-5cbc-11eb-8ec4-ba6a5af33341.png">
 <br>
-
-<br>
 **Add this to your App.js file**
-<br>
 
 ```
 import React from 'react';
@@ -110,16 +107,14 @@ const styles = StyleSheet.create({
 export default App;
 
 ```
-
 <br>
-
 **Run the App Using npx react-native run-ios**
 
 <br>
 Output of the simulator will be 
-
 <br>
-<img  align="center" width="100" height="300" src="https://user-images.githubusercontent.com/55517509/105469008-a57dee00-5cbd-11eb-88fb-6c079d9734b0.png">
+<p align="center>
+<img width="100" height="600" src="https://user-images.githubusercontent.com/55517509/105469008-a57dee00-5cbd-11eb-88fb-6c079d9734b0.png">
 <br>
 
 **Now create Butoons in the App.js**
