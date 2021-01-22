@@ -136,7 +136,7 @@ Output of the simulator will be
    <br>
 **Output will be**   
 <br>
-<img width="100" height="300" src="https://user-images.githubusercontent.com/55517509/105471667-00651480-5cc1-11eb-8125-8e7eb611c276.png">
+<img width="100" height="300" src="https://user-images.githubusercontent.com/55517509/105472004-66ea3280-5cc1-11eb-9c2c-fb05125621ba.png">
  <br>
     
 
